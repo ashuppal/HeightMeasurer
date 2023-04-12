@@ -27,5 +27,5 @@ The styling is done using react-native-elements like StyleSheet, Text, View, Tou
  ## Screenshots
 
 ![QR](./assets/QR.png)
-![Home](./assets/HomePage.jpg)
-![Home](./assets/HomePage1.jpg)
+![Home](./assets/Screen Shot 2023-04-12 at 9.48.12 AM.png)
+
